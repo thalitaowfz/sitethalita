@@ -1,0 +1,15 @@
+body { 
+    background: rgb(204, 50, 71);
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong {
+    color: crimson;
+}
