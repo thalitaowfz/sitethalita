@@ -1,5 +1,5 @@
 body { 
-    background: rgb(204, 50, 71);
+    background: rgb(160, 50, 204);
 }
 
 h1{
@@ -10,6 +10,6 @@ p{
     text-align: center;
 }
 
-em strong {
+strong {
     color: crimson;
 }
